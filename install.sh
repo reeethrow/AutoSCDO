@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "SCRIPT AUTO INSTALL WINDOWS by HIDESSH"
+echo "SCRIPT AUTO INSTALL WINDOWS by REETHROW"
 echo
 echo "Pilih OS yang ingin anda install"
 echo "[1] Windows 2019(Default)"
@@ -13,7 +13,7 @@ read -p "Pilih [1]: " PILIH OS
 case "$PILIHOS" in
 	1|"") PILIHOS="https://file.nixpoin.com/windows2019DO.gz";;
 	2) PILIHOS="https://file.nixpoin.com/windows2016.gz";;
-	3) PILIHOS="https://file.nixpoin.com/windows2012v2.gz";;
+	3) PILIHOS="https://dl.dropbox.com/scl/fi/w909zdjp748bbcl2t73jf/2012_R2_STD_x64.gz?rlkey=dpcukjpd72tvzvg3l2s4abeaz&dl=0";;
 	4) PILIHOS="https://file.nixpoin.com/win10.gz";;
 	5) read -p "[?] Masukkan Link GZ mu : " PILIHOS;;
 	*) echo "[!] Pilihan salah"; exit;;
