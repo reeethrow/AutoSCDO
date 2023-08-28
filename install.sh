@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "SCRIPT AUTO INSTALL WINDOWS by REETHROW"
+echo "SCRIPT AUTO INSTALL WINDOWS by REEETHROW"
 echo
 echo "Pilih OS yang ingin anda install"
 echo "[1] Windows 2019(Default)"
@@ -98,4 +98,4 @@ wget https://nixpoin.com/ChromeSetup.exe
 cp -f /tmp/net.bat net.bat
 cp -f /tmp/dpart.bat dpart.bat
 
-echo "reboot Rdp dulu mazzeh baru bisa pake"
+echo "REBOOT DLU YAK BANG"
