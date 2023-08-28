@@ -6,7 +6,7 @@ echo "[1] Windows 2019(Default)"
 echo "[2] Windows 2016"
 echo "[3] Windows 2012"
 echo "[4) Windows 10"
-echo "[5] Chat Ryan Untuk Add OS lain"
+echo "[5] Chat Lam Jeen Untuk Add OS lain"
 
 read -p "Pilih [1]: " PILIH OS
 
